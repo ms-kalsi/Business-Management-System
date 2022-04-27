@@ -1,0 +1,6 @@
+Coffee               : 1500
+Travel               : 120
+Office Supplies      : 250
+Printing             : 300
+Repairs and Damages  : 1000
+Others               : 2200

@@ -1,0 +1,9 @@
+Salary                 : 1500000
+Bills                  : 80000
+Taxes                  : 15000
+Web Server Management  : 35000
+Subscriptions          : 35000
+Advertisements         : 1200000
+Coffee                 : 45000
+Mentanance             : 70000
+Others                 : 120000
